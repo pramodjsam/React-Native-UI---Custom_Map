@@ -26,7 +26,7 @@ npm run start
 ## Screenshot
 
 ##### Dark mode
-![Dark](./screenshots/register.png "Dark")
+<img src="./screenshots/screenshot-1.png" width="300" height="600">
 
 ##### Light mode
-![Light](./screenshots/login.png "Light")
+<img src="./screenshots/screenshot-2.png" width="300" height="600">
